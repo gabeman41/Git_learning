@@ -1,0 +1,19 @@
+.services {
+    text-align: center;
+}
+
+.services img {
+    max-width: 40%;
+   
+}
+
+.content_writing {
+    display: inline-block;
+    max-width: 40%;
+
+    
+}
+
+.content_writing {
+    text-align: justify;
+}
