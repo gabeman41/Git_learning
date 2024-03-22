@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.services img {
+img {
     max-width: 40%;
    
 }
@@ -17,3 +17,10 @@
 .content_writing {
     text-align: justify;
 }
+
+.project {
+    max-width: 30%;
+    display: inline-block;   
+}
+
+
